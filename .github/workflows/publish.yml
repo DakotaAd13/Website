@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_DEFAULT_REGION: us-west-2
-  BUCKET_NAME: www.ethancpost.com
+  BUCKET_NAME: www.dakotaadams.tech
 
 jobs:
   publish:
