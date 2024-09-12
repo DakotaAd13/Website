@@ -3,7 +3,7 @@ name: Publish Website to Bucket
 on:
   push:
     branches:
-      - master
+      - main
 
 env:
   AWS_DEFAULT_REGION: us-west-2
